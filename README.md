@@ -72,4 +72,4 @@ Pull requests are welcome! Please include tests and descriptions.
 
 ## 🔗 Backend
 
-You can find the Spring Boot backend [here](../leave-management-backend/README.md).
+You can find the Spring Boot backend [here](https://github.com/kumaparajita104/workflow_backend?tab=readme-ov-file#workflow_backend).
